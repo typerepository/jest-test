@@ -1,4 +1,4 @@
-# react-test
+# jest-test
 
 Node.js Tests with JEST
 
